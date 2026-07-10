@@ -1,0 +1,12 @@
+*.txt
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.pkl
+*.npy
+*.npz
+*.zip
+FakeBuster-master/glove.6B.100d.txt
+__pycache__/
+.venv/
